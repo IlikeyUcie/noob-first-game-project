@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CoinText
+  - FloatPoint
+  - Gun
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - MovingPlatform
+  - OneWayPlatform
+  - Trigger
+  - Item
+  - canTouchItem
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 1545722019
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2542191009
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 139467647
+    locked: 0
+  - name: Enemy
+    uniqueID: 3714958453
+    locked: 0
+  - name: Player
+    uniqueID: 2146514621
+    locked: 0
+  - name: Weapon
+    uniqueID: 572288655
+    locked: 0
